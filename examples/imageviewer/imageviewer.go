@@ -1,6 +1,6 @@
 package main
 
-import (
+/*import (
 	"log"
 )
 
@@ -69,4 +69,4 @@ func (mw *MyMainWindow) aboutAction_Triggered() int {
 // 重载，返回炫彩窗口句柄
 func (mw *MyMainWindow) Handle() win.HWND {
 	return win.HWND(xcgui.XWnd_GetHWND(mw.hWindow))
-}
+}*/

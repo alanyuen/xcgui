@@ -1,6 +1,6 @@
 package main
 
-import (
+/*import (
 	"log"
 )
 
@@ -74,3 +74,4 @@ func main() {
 	// Run the message loop.
 	xcgui.XRunXCGUI()
 }
+*/

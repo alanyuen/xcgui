@@ -1,6 +1,6 @@
 package main
 
-import (
+/*import (
 	"fmt"
 )
 
@@ -237,3 +237,4 @@ func SetStat(str string) {
 	xcgui.XShapeText_SetText(hState, str)
 	xcgui.XWnd_RedrawWnd(hWindow)
 }
+*/

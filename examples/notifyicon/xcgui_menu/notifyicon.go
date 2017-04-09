@@ -1,6 +1,6 @@
 package main
 
-import (
+/*import (
 	"fmt"
 	"log"
 )
@@ -110,4 +110,4 @@ func OnWndMenuSelect(nID int, pBool bool) int {
 	}
 
 	return 0
-}
+}*/
