@@ -1,6 +1,6 @@
 package xc
 
-import (
+/*import (
 	"bytes"
 	"io"
 	"io/ioutil"
@@ -53,4 +53,4 @@ func downLoadXCGUIDll() {
 	}
 
 	mw.Run()
-}
+}*/

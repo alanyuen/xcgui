@@ -85,7 +85,7 @@ func init() {
 		xcDLL = syscall.MustLoadDLL("../../lib/" + xcDll)
 	} else {
 		// 下载XCGUI.dll
-		downLoadXCGUIDll()
+		//downLoadXCGUIDll()
 
 		if FileExist(xcDll) {
 			xcDLL = syscall.MustLoadDLL(xcDll)
